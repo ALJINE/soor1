@@ -30,4 +30,4 @@ client.on('guildMemberAdd', Sal => { //By Salto7#4595
     channel.send({embed : embed});
     });
 
-client.login('NTQ4MzY4MTk5NDgyMjEyMzYy.D1ETTg.WFrKwh3r8kFe-euYl9K36ihXObc');
+client.login('NTQ1MjA0OTE5MDI0NjE1NDM0.D1Ercg.xwniMvjYgJrF4Nzp385Ek1lr_CM');
